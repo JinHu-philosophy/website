@@ -1,0 +1,13 @@
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "Tao Te Ching and Dao Theory"
+theme = "PaperMod"
+
+[params]
+Author = "JINHU ZHOU"
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+[markup.goldmark.extensions]
+linkAttributes = true
