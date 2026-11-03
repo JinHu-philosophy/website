@@ -47,7 +47,7 @@ Volume One lays the foundational theory, Volume Two carries out full‑chapter i
 
 Short articles and viewpoints about the Tao Te Ching and Binary Dynamic Balance
 
-
+- [Binary Dynamic Balance Theory: From the Primordial Dao of the Ancient Yi to a General Paradigm of Universal Systemic Evolution](/bdb-theory/)
 
 
 

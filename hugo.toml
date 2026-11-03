@@ -11,3 +11,5 @@ Author = "JINHU ZHOU"
 unsafe = true
 [markup.goldmark.extensions]
 linkAttributes = true
+
+mainSections = ["posts"]
