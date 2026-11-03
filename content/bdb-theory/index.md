@@ -8,6 +8,8 @@ draft: false
 
 layout: single
 
+slug: bdb-theory
+
 \---
 
 The ancient Chinese Yi tradition, grounded in the primordial insight of yinyang reciprocity and oppositional coexistence, caught sight of the rudimentary underlying laws governing the workings of all things in the cosmos. The Tao Te Ching, by contrast, strips away the external accretions of divinatory arts and metaphysical speculation attached to traditional Yi learning, stepping beyond empirical appearances and conventional interpretations. It distills a primordial, timeless governing principle that transcends any single era and permeates all phenomena. This ancient core of the Dao has undergone modern academic restructuring, systematization and logical articulation through Binary Dynamic Balance Theory (BDB Theory), yielding a general evolutionary mechanism applicable to all selforganizing systems in the universe.
